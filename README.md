@@ -15,7 +15,7 @@ MongoDB for data storage
 
 ⚙️ Setup
 # Clone the repo
-git clone https://github.com/your-username/blog-app.git
+git clone https://github.com/Janshrutt13/blog-app.git
 cd blog-app
 
 # Install dependencies
@@ -31,3 +31,4 @@ Node.js + Express
 MongoDB + Mongoose
 
 EJS + Bootstrap
+
